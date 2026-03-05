@@ -4,13 +4,13 @@
     "title": "WebGPU Particle Flow",
     "description": "GPGPU curl noise particle simulation with 65,536 particles via Three.js WebGPU + TSL.",
     "date": "2026-03-04",
-    "thumbnail": "./particle-flow/thumbnail.png"
+    "thumbnail": "./thumbnails/particle-flow.png"
   },
   {
     "slug": "shoe-viewer",
     "title": "Shoes glTF Viewer",
     "description": "Babylon.js WebGL shoe model viewer with PBR materials, SSAO, and shadow mapping.",
     "date": "2026-03-05",
-    "thumbnail": "./screenshot.png"
+    "thumbnail": "./thumbnails/shoe-viewer.png"
   }
 ]
