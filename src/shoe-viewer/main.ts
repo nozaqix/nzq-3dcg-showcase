@@ -101,7 +101,7 @@ function init() {
   ground.material = groundMat;
 
   // Load shoe model
-  SceneLoader.ImportMeshAsync('', './models/', 'shoe.glb', scene).then((result) => {
+  SceneLoader.ImportMeshAsync('', '/models/', 'shoe.glb', scene).then((result) => {
     const meshes = result.meshes;
 
     // Center and scale

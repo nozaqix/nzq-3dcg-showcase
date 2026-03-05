@@ -9,6 +9,7 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.58.2",
+    "@types/three": "^0.183.1",
     "@webgpu/types": "^0.1.0",
     "playwright": "^1.58.2",
     "tsx": "^4.21.0",
@@ -18,6 +19,8 @@
   "dependencies": {
     "@babylonjs/core": "^8.53.1",
     "@babylonjs/loaders": "^8.53.1",
-    "@babylonjs/materials": "^8.53.1"
+    "@babylonjs/materials": "^8.53.1",
+    "lil-gui": "^0.21.0",
+    "three": "^0.183.2"
   }
 }
