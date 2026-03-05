@@ -1,6 +1,6 @@
-# nzq-webgpu-sandbox
+# nzq-3dcg-showcase
 
-WebGPU の実験・プロトタイピング用リポジトリ。
+3DCG 実験・プロトタイピングのショーケース。
 
 ## Setup
 
